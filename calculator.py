@@ -1,5 +1,5 @@
-
 def copy_array(source, start_position):
+    """Simple app"""
     array1 = []
 
     for i in range(start_position, len(source)):
